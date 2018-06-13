@@ -1,0 +1,6 @@
+/Users/josefina/Desktop/movies-josefinavalenzuela/movies/movies/bin/Debug/movies.exe
+/Users/josefina/Desktop/movies-josefinavalenzuela/movies/movies/bin/Debug/movies.pdb
+/Users/josefina/Desktop/movies-josefinavalenzuela/movies/movies/obj/x86/Debug/movies.csprojResolveAssemblyReference.cache
+/Users/josefina/Desktop/movies-josefinavalenzuela/movies/movies/obj/x86/Debug/movies.csproj.CoreCompileInputs.cache
+/Users/josefina/Desktop/movies-josefinavalenzuela/movies/movies/obj/x86/Debug/movies.exe
+/Users/josefina/Desktop/movies-josefinavalenzuela/movies/movies/obj/x86/Debug/movies.pdb
